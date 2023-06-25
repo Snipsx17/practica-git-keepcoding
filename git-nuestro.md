@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+## ORACION DE GIT
 _Git_ nuestro que estás en los repos
 Comprimidos sean tus _commits_
 Venga a nosotros tu _log_
