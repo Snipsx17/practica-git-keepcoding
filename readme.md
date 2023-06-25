@@ -14,7 +14,10 @@
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
   Si causo un conflicto porque en las ramas styled y htmlfy modifique el archivo git-nuestro.md
   en las mismas lineas
+
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
+  No causo ningun conflicto porque fue un **merge** fast-forwar, no existian cambios en las mismas
+  lineas de los archivos de las ramas.
 - ¿Qué comando o comandos utilizaste en el paso 25?
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 - ¿Qué comando o comandos utilizaste en el paso 27?
