@@ -3,10 +3,13 @@
 - ¿Qué comando utilizaste en el paso 11? ¿Por qué?
   utilizo el comando '''git reset --hard HEAD~1''' para deshacer el ultimo commit y volver el
   working copy al estado anterior.
+
 - ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?
   utilizo el comando '''git reflog''' para buscar el identificador del commit que deshice y con
   '''git reset --hard 36135f0''' rehago el commit deshecho.
+
 - El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?
+  No causo ningun conflicto porque es un **merge** fast-forwar.
 - El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?
 - El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?
 - ¿Qué comando o comandos utilizaste en el paso 25?
