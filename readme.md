@@ -36,7 +36,9 @@
 - ¿Qué comando o comandos utilizaste en el paso 30?
   `git reflog`, busque la referencia del commit donde hice el merge y luego use `git reset --hard 1286bd5`
   para recuperar el merge
+
 - ¿Qué comando o comandos usaste en el paso 32?
-  ``
+  `git checkout 2fd2da5`
+
 - ¿Qué comando o comandos usaste en el punto 33?
-  ``
+  `git checkout main`
